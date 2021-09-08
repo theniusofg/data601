@@ -1,0 +1,25 @@
+﻿Summary of 50 Years of Data Science - David Donoho
+
+
+Donoho repackages a talk that he gave discussing the same subject. He begins by telling us that data science isn’t what we think it is. It’s not what statisticians think it is. Nor what the public thinks it is. Not even what data scientists themselves think it is. 
+
+
+He lays the groundwork for pitting data science against statistics by wondering out loud that much of the work that data science seeks to accomplish already falls under the umbrella of statistics. 
+
+
+Forging ahead he eviscerates the common understanding of data science as laid out by the media. Data science is portrayed by the media and its evangelists as something shiny and new but all of the flashy buzz words that accompany these descriptions don’t do ‘real’ data science justice. He pulls at the threads of what he calls “memes” of big data, skills, and jobs. 
+
+
+After debunking the myths of pop data science. Donoho says that there is a better framework that can house data science nicely. But it requires the rigors of academia not simply the commercial end-all-be-all as he claims it is today. He explains that statisticians in good standing have been seeing all this come down the pike for nearly 50 years. John Tuckey had been advocating for a separate scientific branch to escape the narrow focus of statistics. 
+
+
+This new branch Tuckey called Data Science. Others in academia and in industry exhorted their fellow statisticians to look to the future but prior to the dawn of the new millennium, few took heed. 
+
+
+Around that time Breiman said that academic statisticians fall into two camps, generative modelers and predictive modelers. The first holds the vast majority of statisticians and the second only a lonely few. The culture of the latter yielded better more pertinent and tangible results. The former sought to understand the enigma of data through stochastic means. Breiman advocated for the predictive “culture”.
+
+
+Donoho goes on to state that the secret that aids in predictive modeling’s success is the common task framework (CTF). Multiple parties are given the same objective and their product is scored independently by a third party. These two things work together and yield even more accurate results. 
+
+
+The last part of the assigned reading scrutinizes UC Berkley’s Data Science Curriculum. And offers insight into how the students benefit from the coursework as it is presently structured and also evaluates how the program differs from traditional statistics programs. Donoho also notes that there is a need for students to foster a master-apprentice relationship. And that through this interaction of doing practical work the students can benefit even more.
