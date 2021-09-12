@@ -1,5 +1,5 @@
 ## ***NOTE: Use this command to pull the latest folder***
-`git checkout main *folder-in-question*`
+`git checkout main folder-in-question`
 
 ---
 
