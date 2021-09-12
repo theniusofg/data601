@@ -1,3 +1,8 @@
+## ***NOTE: Use this command to pull the latest folder***
+`git checkout main *folder-in-question*`
+
+---
+
 # DATA 601: Introduction to Data Science
 ## Fall 2021
 ## Class
@@ -5,6 +10,7 @@
     - Wed: 7:10 - 9:40 PM
     - Room Information Technology 239
     - When Online: Link will be shared via Blackboard
+
 
 ## Instructor Mehmet Sarica
 
